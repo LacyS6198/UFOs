@@ -43,3 +43,13 @@ To view all of the table data again, the user simply has to clear out the filter
 
 
 # Summary
+
+## Drawback(s)
+One drawback to the current design is that filtering requires users to have a general idea of the values they can filter on. Users may not be aware of all options. 
+For example, the "Shape" column includes a "Cigar" value. A general user may not be aware that this is a UFO shape that can be filtered on.
+
+## Recommendation(s)
+Below are two recommendations to enhance the webpage:
+
+ 1. Add a dropdown option to the fitler feature where users can either (1) type in their own text or (2) use the dropdown to select based on values present in the data. 
+ 2. Allow for date filtering by month and year. The current date filter requires a specific date. User may want to search based on month, year or month/year.
