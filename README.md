@@ -16,12 +16,7 @@ When a user first opens the site, they will be taken to the main page that will 
 ![Main Page](/static/images/mainpager.png)
 ## Filtering
 <br>
-On the left-hand side of the page are for filters that a user can use to filter the data. The user can filter by:
- - Date
- - City
- - State
- - Country
- - Shape
+On the left-hand side of the page are for filters that a user can use to filter the data. The user can filter by: Date, City, State, Country, Shape
 
 ![Filters](/static/images/filters.png)
 
