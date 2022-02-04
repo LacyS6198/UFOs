@@ -7,6 +7,12 @@ Due to the large volume of data available for UFO sightings, it can be difficult
  - Country
  - Shape
 
+The goal was to assist users in finding the UFO sighting data they are looking for!
+
 # Results
+When a user first opens the site, they will be taken to the main page that will display all of the UFO sighting data. 
+<br>
+![Main Page](/static/images/mainpager.png)
+<br>
 
 # Summary
