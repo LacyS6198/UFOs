@@ -25,7 +25,7 @@
         <div class = "container-fluid">
             <div class = "row">
                 <div class="col-md-4">
-                    <h3>UFO Sightings: Fact or Fancy? <small>Ufologists Weigh In</small></h3>
+                    <h3>UFO Sightings: Fact or Fancy? <small><br>Ufologists Weigh In</small></h3>
                 </div>
                 <div class="col-md-8">
                     <p>
@@ -40,12 +40,30 @@
                     <form class = "bg-dark">
                         <p>Filter Search</p>
                         <ul class="list-group bg-dark">
+                            <!--Filter by Date-->>
                             <li class="list-group-item bg-dark">
                                 <label for="date">Enter Date</label>
                                 <input type="text" placeholder="1/10/2010" id="datetime" />
                             </li>
+                            <!--Filter by City-->>
                             <li class="list-group-item bg-dark">
-                                <button id="filter-btn" type="button" class="btn btn-dark">Filter Table</button>
+                                <label for="date">Enter City</label>
+                                <input type="text" placeholder="Cleveland" id="city" />
+                            </li>
+                            <!--Filter by State-->>
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter State</label>
+                                <input type="text" placeholder="OH" id="state" />
+                            </li>
+                            <!--Filter by Country-->>
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter Country</label>
+                                <input type="text" placeholder="US" id="country" />
+                            </li>
+                            <!--Filter by Shape-->>
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter Shape</label>
+                                <input type="text" placeholder="circle" id="shape" />
                             </li>
                         </ul>
                     </form>
